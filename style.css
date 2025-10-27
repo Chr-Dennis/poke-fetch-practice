@@ -1,0 +1,33 @@
+body {
+    background: rgb(101, 255, 188);
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    padding: 15%
+}
+
+main {
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    gap: 5px;
+}
+
+h1 {
+    color: rgb(74, 92, 255);
+}
+
+input {
+    height: 2.6em;
+    text-align: center;
+}
+
+button {
+    min-width: auto;
+    margin: auto;
+}
+
+img {
+    scale: 100%;
+}
